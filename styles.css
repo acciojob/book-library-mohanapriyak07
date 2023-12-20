@@ -15,8 +15,8 @@ body{
 	height:280px;
 	margin-top:15px;
 	padding:20px;
-/* 	background-color: #f8f8f8; */
-	background-color:rgb(46, 204, 113);
+	background-color: #f8f8f8;
+	
 }
 
 img{
@@ -50,7 +50,7 @@ h1{
 }
 
 .price{
-	 background-color:rgb(46, 204, 113);
+	background-color:rgb(46, 204, 113);
 	border:none;
 	color:#2ecc71;
 	width:100%;
