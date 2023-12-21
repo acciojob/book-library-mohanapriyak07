@@ -39,11 +39,11 @@ body{
 	border-radius:5px;
 }
 
-/* .img-center{
+.img-center{
 	display:flex;
 	justify-content:center;
 	align-items:center;
-} */
+}
 
 .library {
 	background-color: #ffffff;
