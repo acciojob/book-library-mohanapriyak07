@@ -12,14 +12,14 @@ body{
 	text-align:center;
 }
 
-.book-library{
+/* .book-library{
 	background-color:#ffffff;
 	width:100vw;
-}
+} */
 
 .book{
-	width:100%;
-	height:500px;
+	width:90%;
+	height:450px;
 	margin:10px;
 	padding:15px;
 	 border-radius: 10px;
@@ -31,7 +31,7 @@ body{
 }
 
 .price{
-	background-color:rgb(46, 204, 113);
+	background-color: #2ecc71;
 	color:white;
 	text-align:center;
 	width:100%;
@@ -44,4 +44,10 @@ body{
 	display:flex;
 	justify-content:center;
 	align-items:center;
+}
+
+.library {
+	background-color: #ffffff;
+	width: 100%;
+	height: 25px;
 }
